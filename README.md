@@ -2,8 +2,6 @@
 
 Bedankt dat je de tijd wil nemen om dit assessment uit te voeren voor de vacature Javascript Developer. Het doel van de opdracht is een beeld te krijgen van jouw technische skills en je development aanpak en gewoonten.
 
-Het NPO Start team is een nieuw team. Deze opdracht is eveneens nieuw en in ontwikkeling. Helaas kunnen wij de opdracht op dit moment nog niet aanbieden in een Git repository en met de benodigde Sketch designs. Vandaar dat we deze momenteel nog als ZIP bestand aanleveren. Heb je feedback op dit asssement, dan horen wij dit graag.
-
 Voor de opdracht kun je een uur of 4 de tijd nemen. Het resultaat van de opdracht is een indicatie van het werk dat je als developer zou kunnen leveren bij NPO. De opdracht voer je uit als single-page applicatie in React. Een eventuele API-afhankelijkheid kan gemocked worden. Dit ZIP bestand bevat een standaard Create React App boilerplate om je op gang te helpen. Benader de opdracht zoals je elke project zou aanpakken.
 
 Je mag deze opdracht aanleveren als ZIP bestand. Het resultaat van de opdracht wordt door ons niet bewaard en niet gebruikt.
