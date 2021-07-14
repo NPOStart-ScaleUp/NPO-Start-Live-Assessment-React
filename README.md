@@ -2,9 +2,11 @@
 
 Bedankt dat je de tijd wil nemen om dit assessment uit te voeren voor de vacature Javascript Developer. Het doel van de opdracht is een beeld te krijgen van jouw technische skills en je development aanpak en gewoonten.
 
-Voor de opdracht kun je een uur of 4 de tijd nemen. Het resultaat van de opdracht is een indicatie van het werk dat je als developer zou kunnen leveren bij NPO. De opdracht voer je uit als single-page applicatie in React. Een eventuele API-afhankelijkheid kan gemocked worden. Dit ZIP bestand bevat een standaard Create React App boilerplate om je op gang te helpen. Benader de opdracht zoals je elke project zou aanpakken.
+Voor de opdracht kun je een uur of 4 de tijd nemen. Het resultaat van de opdracht is een indicatie van het werk dat je als developer zou kunnen leveren bij NPO. De opdracht voer je uit als single-page applicatie in React. Een eventuele API-afhankelijkheid kan gemocked worden. Dit project bevat een standaard Create React App boilerplate om je op gang te helpen. Benader de opdracht zoals je elke project zou aanpakken.
 
-Je mag deze opdracht aanleveren als ZIP bestand. Het resultaat van de opdracht wordt door ons niet bewaard en niet gebruikt.
+Let op: push je wijzigingen **niet** naar deze repository.
+
+Het resultaat van de opdracht wordt door ons niet bewaard en niet gebruikt.
 
 Succes met de opdracht!
 
